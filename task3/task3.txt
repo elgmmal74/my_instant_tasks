@@ -1,0 +1,25 @@
+Q1 usage of hash function in python datas tructure
+
+
+Hash functions are commonly used in Python data structures to efficiently store and retrieve data. Some common uses of hash functions include:
+
+1. Dictionaries: In Python, dictionaries use a hash table to store key-value pairs.
+ Each key is hashed using a function which converts it to a unique hash value. 
+This hash value is used as an index in the hash table to store the corresponding value.
+ When a value needs to be retrieved, the key is hashed again to find its index in the hash table, and the corresponding value is returned.
+
+
+2. Sets: Sets in Python also use a hash table to store unique elements. 
+Each element is hashed using a function which converts it to a unique hash value. 
+This hash value is used as an index in the hash table to store the element. 
+When checking if an element is in the set, its hash value is used to quickly find its index in the hash table.
+
+
+3. Caching: Hash functions can also be used for caching expensive computations or data. 
+By storing the results of expensive computations in a hash table using their input as the key, 
+subsequent calls with the same inputs can quickly retrieve the previously calculated result.
+
+
+4. Password storage: In security applications, hash functions are often used to store password hashes instead of the actual passwords
+. Since hash functions are one-way, it is difficult to determine the original password from the hash value. 
+This helps protect against accidental or intentional disclosure of passwords.
