@@ -1,0 +1,31 @@
+Q1 deference between agile and devops
+Agile and DevOps are both development methodologies that focus on delivering high-quality software quickly to meet customer needs. However, there are several differences between these two methodologies:
+
+1. Focus: Agile focuses on delivering small but valuable features or functionality in short iterations called sprints. DevOps, on the other hand, focuses on collaborating between developers and operations teams for continuous integration and deployment of software.
+
+2. Scope: Agile focuses on the development phase of software delivery, while DevOps spans across the entire software development lifecycle, including the operations side of software delivery.
+
+3. Team Structure: Agile relies on cross-functional teams that typically include developers, testers and business analysts, while DevOps teams are typically made up of developers, operations engineers, security engineers, and quality assurance testers etc.
+
+4. Release Frequency: Agile teams release software in sprints that usually last from 1-4 weeks, while DevOps emphasizes continuous delivery and deployment of software. DevOps teams usually release software multiple times per day, or even multiple times per hour.
+
+5. Automation: DevOps is heavily centered on automation for testing, building, and deploying software, while Agile relies on manual testing and releases.
+
+In summary, Agile focuses on delivering software in small increments within the development phase while DevOps focuses on collaborating between development, operations, and testing teams and releasing software quickly and consistently through automation.
+###############################################################
+Q2 what are devops tools?
+1. Continuous Integration/Continuous Deployment (CI/CD) Tools: Jenkins, Gitlab, Bamboo, Travis CI, CircleCI, etc.
+
+2. Configuration Management Tools: Puppet, Chef, Ansible, SaltStack, etc.
+
+3. Containerization and Orchestration Tools: Docker, Kubernetes, Mesos, etc.
+
+4. Monitoring Tools: Nagios, Prometheus, Grafana, Zabbix, ELK (Elasticsearch, Logstash, Kibana), etc.
+
+5. Collaboration and Communication Tools: Slack, Microsoft Teams, JIRA, Asana, Trello, etc.
+
+6. Test Automation Tools: Selenium, Appium, JMeter, LoadRunner, etc.
+
+7. Source Control and Versioning Tools: Git, SVN, etc.
+
+8. Cloud Infrastructure and Management Tools: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure, etc.
