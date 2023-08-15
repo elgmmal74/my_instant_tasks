@@ -1,0 +1,29 @@
+Q: Clean Code principles?
+
+
+Clean Code is a set of principles and best practices intended for writing readable, efficient, and maintainable code. The fundamental principles of Clean Code are:
+
+1. Keep the Code Simple: A Clean Code should be easy to read and understand, with fewer lines of code and minimum complexity.
+
+2. Naming Conventions: Naming conventions should be clear, precise, and expressive.
+
+3. Proper Formatting: Formatting should be consistent and well-organized.
+
+4. Less is more: Function should be small and focused to have fewer dependencies and easy to test.
+
+5. Comments: Code should be expressive and easy to read without relying on comments, but if necessary, comments should be clear and concise.
+
+6. DRY (Don’t Repeat Yourself): Duplication should be avoided, and code should be written in a way that minimizes repetition of code.
+
+7. SOLID: SOLID stands for Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, 
+and Dependency Inversion Principle. Following these principles helps to build modular, reusable, and extendable code.
+
+8. Error Handling: Error handling should be done properly, and exceptions should be used to handle errors.
+
+9. Testing: Unit testing should be performed to ensure that code is working as expected.
+
+10. Continuous Refactoring: Ongoing maintenance and refactoring should be performed to keep the code clean, updated, and maintainable.
+
+In conclusion, Clean Code principles are guidelines for writing readable, efficient, and maintainable code, 
+which ultimately leads to better software development and fewer bugs. By following these principles, developers can improve code quality, reduce complexity,
+increase productivity, and make the code more readable and scalable.

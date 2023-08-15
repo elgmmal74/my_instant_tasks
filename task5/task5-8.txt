@@ -1,0 +1,27 @@
+Q: Languages support multithreading ?
+
+
+Many programming languages support multithreading, providing developers with the ability to create programs that can execute multiple threads concurrently within a single process.
+ Some of the most popular programming languages that support multithreading are:
+
+1. Java: Java has built-in support for multithreading using the Thread class and Runnable interface.
+
+2. Python: Python's threading module provides an implementation of multithreading.
+
+3. C#: C# has built-in support for multithreading using the Thread class, Parallel class, and Task Parallel Library.
+
+4. C++: C++ supports multithreading through the use of various threading libraries such as Pthreads, Boost.Thread, and C++11's thread library.
+
+5. Ruby: Ruby provides support for multithreading through its Thread class.
+
+6. Swift: Swift has built-in support for multithreading using Grand Central Dispatch (GCD).
+
+7. Go: Go programming language provides native support for concurrent programming through Goroutines and Channels.
+
+8. PHP: PHP supports multithreading using POSIX threads (Pthreads) extension.
+
+9. JavaScript: JavaScript supports multithreading via the Web Workers API.
+
+In conclusion, many programming languages support multithreading,
+providing developers with the ability to create highly concurrent programs that can execute multiple independent threads of execution.
+Developers can choose the programming language that best suits their specific application requirements.

@@ -1,0 +1,22 @@
+Q Linux Vs Unix with example?
+
+
+Linux and Unix are both operating systems, but they have some key differences. Here are some examples of the differences between Linux and Unix:
+
+1. Source and licensing: Unix is a proprietary operating system, which means it is owned by a particular company and the source code is not available to the public. On the other hand, Linux is an open-source operating system, which means its source code is freely available to the public and can be modified as necessary.
+
+2. Development and distribution: Unix is developed and distributed by various companies, including IBM and Oracle, while Linux is primarily developed and distributed by a community of developers and organizations such as Canonical, Red Hat, and Debian.
+
+3. Kernel: Unix has its own kernel, while Linux uses a modified version of the Unix kernel.
+
+4. Commands: Unix and Linux use similar commands, but there are some differences. For example, the command to list the contents of a directory in Unix is "ls", while in Linux it is "ls -a".
+
+5. Compatibility: Unix programs are generally not compatible with Linux, and vice versa.
+
+Example:
+
+Unix operating systems include Solaris, AIX, and HP-UX. These are proprietary operating systems and are mostly used in enterprise environments.
+
+Linux operating systems, on the other hand, include Ubuntu, Debian, Red Hat, and Fedora. These are open-source operating systems and are widely used in personal and enterprise environments.
+
+In terms of market share, Linux has a significant lead over Unix, due to its open-source licensing and flexibility. Linux is also more widely used in cloud computing and web hosting environments due to its scalability and reliability.

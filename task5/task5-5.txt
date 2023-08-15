@@ -1,0 +1,11 @@
+Q What is fragmentation ?
+
+Fragmentation refers to the condition where file data is scattered across different physical locations on a hard disk rather than being stored in contiguous blocks, making it harder for the operating system to access the file data efficiently. 
+
+There are two types of fragmentation: internal fragmentation and external fragmentation.
+
+Internal fragmentation occurs when file data is stored with unused space within a block. This happens when the requested file size is smaller than the block size allocated for it, causing unused space to remain inside the block.
+
+External fragmentation occurs when there is no memory space available for large files to be stored. This happens when several small blocks of memory are scattered throughout the hard disk, and it is challenging to find a contiguous free space for large files that require a large amount of memory.
+
+Fragmentation causes a slowdown in computer performance because the operating system has to spend more time searching for the data. To resolve this issue, disk defragmentation tools are used to reorganize file data into contiguous blocks, which makes it faster to access files and improves overall system performance.

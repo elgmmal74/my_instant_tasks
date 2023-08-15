@@ -1,0 +1,10 @@
+Q What is BIOS? Why do we use it?
+
+BIOS stands for Basic Input/Output System. It is a firmware or software that is built into the computer system's motherboard and acts as the first program that gets executed when the computer powers on. The main function of BIOS is to initialize and test hardware devices (such as hard drives, optical drives, network devices, etc.) and then boot the operating system.
+
+BIOS performs various tasks, such as identifying and testing hardware components,
+ detecting and reporting errors, managing settings for hardware updates and upgrades, and configuring various system-wide settings (such as boot order and power management settings).
+
+We use BIOS because it is essential for the functioning of the computer system.
+ Without BIOS, the computer wouldn't be able to communicate with the hardware and wouldn't be able to boot into the operating system. BIOS also provides access to various configuration and diagnostic tools that only BIOS can offer. 
+It acts as an interface between the hardware and the operating system, allowing them to communicate with each other efficiently.

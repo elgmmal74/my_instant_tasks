@@ -1,0 +1,14 @@
+Q Languages support auto garbage collection
+
+
+
+1. Java
+2. Python
+3. Ruby
+4. JavaScript
+5. C#
+6. Kotlin
+7. Swift
+8. Go
+9. Scala
+10. PHP

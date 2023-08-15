@@ -1,0 +1,39 @@
+Q: Compare among all scheduling algorithms [Round robin - Priority - First come first serve]?
+
+
+The three commonly used CPU scheduling algorithms are Round Robin, Priority, and First-Come-First-Serve (FCFS). Here's a comparison of these algorithms:
+
+1. Round Robin:
+Round Robin scheduling provides equal time slices to each process that is in the ready queue. If the time slice is over and the CPU is still executing the process, this process is interrupted and moved to the back of the ready queue. Round Robin scheduling works well for systems where time sharing is required, and all processes are of equal importance.
+
+Advantages: 
+a. Each process gets an equal share of the CPU's processing time.
+b. There is no priority given to any process, making it suitable for multi-user systems.
+
+Disadvantages:
+a. Processes with long burst times can severely affect the performance of other processes.
+b. Round Robin scheduling is not ideal for real-time systems.
+
+2. Priority:
+Priority scheduling assigns priority levels to each process. The process with the highest priority is executed first. When multiple processes have the same priority level, Round Robin scheduling is used to allocate time slices.
+
+Advantages:
+a. High-priority processes get the CPU's processing time first.
+b. It is a good choice for real-time systems, where some processes are more important than others.
+
+Disadvantages:
+a. Low-priority tasks can be neglected, leading to a situation where they are unable to complete.
+b. There is a risk of priority inversion, which is a situation in which a low-priority process "blocks" a high-priority process.
+
+3. First Come First Serve (FCFS):
+FCFS scheduling allocates the CPU to the first process that arrives in the ready queue. The operating system does not assign any priorities to the processes, and they are executed in the order they arrive.
+
+Advantages:
+a. Simple to implement and understand.
+b. It is suitable for batch processing systems where there are no time requirements.
+
+Disadvantages:
+a. Long processes can take up the CPU and hold up smaller, shorter processes.
+b. Inefficient use of CPU resources.
+
+In conclusion, Round Robin is suited for multi-user systems, Priority is fit for real-time systems, and FCFS is good for batch processing systems. Each algorithm has its advantages and disadvantages, and the choice of scheduling algorithm depends on the system's requirements and constraints.

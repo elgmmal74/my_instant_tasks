@@ -1,0 +1,23 @@
+
+Q: Parallel processing Vs Threads?
+
+
+
+Parallel processing and threads are two ways of achieving concurrent multitasking in software applications, but there are some key differences between them.
+
+1. Concept: 
+Parallel processing refers to breaking down a large task into small sub-tasks that can be executed concurrently by multiple processors or physical CPUs. Threads, on the other hand, refer to the execution of different parts of a program simultaneously within a single process.
+
+2. Purpose: 
+Parallel processing is used to speed up the processing time of large, computationally complex tasks by dividing them into smaller parts that can be processed simultaneously. It makes use of multiple processors to execute the tasks in parallel, thus reducing the total time taken. Threads are used to increase the concurrency of a single process by executing different parts of the process at the same time, this helps to prevent the system from becoming unresponsive.
+
+3. Resource requirements: 
+Parallel processing requires multiple processors or CPUs to execute the tasks in parallel. It also requires coordination between the processors to ensure that the results of the sub-tasks are combined correctly. Threads, on the other hand, only require a single processor or CPU. However, they require careful synchronization of access to shared resources, such as memory or data.
+
+4. Performance: 
+Parallel processing can achieve high levels of performance by utilizing multiple processors. However, it may require additional overhead for coordination and synchronization of interdependent processes. Threads can increase the responsiveness of an application without the need for additional hardware, but too many threads can lead to performance degradation due to overhead.
+
+5. Programming complexity: 
+Parallel processing requires sophisticated programming models and libraries to manage the communication and synchronization of multiple processes and their sub-tasks. It can be challenging to develop parallel programs that are scalable and efficient. Threads are easier to program and, therefore, more widely adopted in multi-threaded applications.
+
+In conclusion, parallel processing and threads are both techniques used for multitasking in software applications. Parallel processing is best suited for computationally complex tasks that can be broken down into smaller sub-tasks and executed concurrently by multiple processors, while threads are best for increasing a process's concurrency, making it more responsive, and reducing the likelihood of crashing.
