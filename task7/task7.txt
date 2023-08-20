@@ -1,0 +1,38 @@
+Q: What's RPA and it's tools?
+
+RPA, or Robotic Process Automation, 
+is a software technology that enables the automation of repetitive tasks and processes in a business using software robots or bots.
+ These tools are designed to mimic and automate human actions and interactions within digital systems, user interfaces and applications. 
+Some common RPA tools include UiPath, Automation Anywhere, Blue Prism, WorkFusion, and Kofax.
+These tools can perform various tasks such as data entry, form filling, 
+screen scraping, report generation, 
+and rule-based decision making, among others.
+
+##############################################################################################################
+Q: Websites for live data?
+
+1. John Hopkins Coronavirus Resource Center:
+ https://coronavirus.jhu.edu/map.html
+2. World Health Organization (WHO): 
+https://covid19.who.int/
+3. Centers for Disease Control and Prevention (CDC): 
+https://www.cdc.gov/coronavirus/2019-ncov/index.html
+4. The New York Times: 
+https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html
+5. Bing COVID-19 Tracker: 
+https://www.bing.com/covid
+6. Our World in Data: 
+https://ourworldindata.org/coronavirus
+7. COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU):
+https://coronavirus.jhu.edu/map.html
+8. Covid Act Now: https://covidactnow.org/
+9. The COVID Tracking Project: 
+https://covidtracking.com/data
+10. COVID-19 in Canada: 
+https://health-infobase.canada.ca/covid-19/
+11. European Centre for Disease Prevention and Control: 
+https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
+12. Coronavirus Dashboard by the Worldometers: 
+https://www.worldometers.info/coronavirus/
+
+
