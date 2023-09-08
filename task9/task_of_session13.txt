@@ -1,0 +1,72 @@
+Q1 What is non-probability sampling methods?
+
+Non-probability sampling methods are a set of techniques used in research to select participants or units for a study without involving random selection. 
+Unlike probability sampling, where each member of the population has a known probability of being included in the sample, 
+non-probability sampling methods do not guarantee that every individual or unit in the population has an equal chance of being selected. 
+Here are some common non-probability sampling methods:
+
+Convenience Sampling: This method involves selecting participants who are readily available and accessible to the researcher. 
+
+Convenience sampling is convenient but may introduce bias since it relies on the ease of access rather than random selection.
+
+Purposive Sampling: In purposive sampling, researchers deliberately select participants who possess specific characteristics or meet certain criteria relevant to the research question. 
+This method allows researchers to target individuals who are knowledgeable or experienced in the area of interest. 
+However, it can introduce bias if the chosen participants do not represent the wider population accurately.
+
+Snowball Sampling: Snowball sampling involves identifying initial participants and then asking them to refer other potential participants. 
+This method is useful when the target population is difficult to reach, such as marginalized or hidden populations. 
+It relies on social networks and referrals but may introduce bias since participants are not randomly selected.
+
+Quota Sampling: Quota sampling involves setting specific quotas or predetermined targets for different subgroups within the population. 
+Researchers select participants to meet these quotas based on characteristics like age, gender, or ethnicity. 
+
+Quota sampling provides some control over the composition of the sample but does not ensure random selection.
+
+Expert Sampling: Expert sampling involves selecting participants who are considered experts or have specialized knowledge in a particular field. 
+This method is commonly used in qualitative research or when studying a niche topic. 
+However, it may introduce bias since participants are chosen based on their expertise rather than random selection
+#####################################################################################################################################
+Q2 Types of data distribution and types of density function?
+
+
+In statistics, data distribution refers to the pattern or arrangement of values in a dataset.
+ There are several types of data distributions, each characterized by different properties. Here are some commonly encountered data distributions:
+
+Normal Distribution (Gaussian Distribution): The normal distribution is symmetrical, bell-shaped, and characterized by its mean and standard deviation. Many variables in nature and social sciences tend to follow a normal distribution. The probability density function (PDF) of the normal distribution is given by the bell-shaped curve known as the Gaussian curve.
+
+Uniform Distribution: In a uniform distribution, all values in a dataset have equal probability of occurrence. 
+It is characterized by a constant probability density and a rectangular shape.
+ An example of a uniform distribution is rolling a fair die, where each face has an equal chance of appearing.
+
+Skewed Distribution: Skewed distributions are asymmetrical and have a tail that extends more to one side than the other. 
+There are two types of skewed distributions:
+
+Positively Skewed (Right-skewed): The tail of the distribution extends towards the right, and the majority of the values are concentrated on the left side.
+Negatively Skewed (Left-skewed): The tail of the distribution extends towards the left, and the majority of the values are concentrated on the right side.
+Exponential Distribution: The exponential distribution describes the time between events in a Poisson process, 
+where events occur continuously and independently at a constant average rate. 
+It is characterized by a decreasing exponential shape and is commonly used to model waiting times or durations.
+
+Log-Normal Distribution: The log-normal distribution is a skewed distribution where the logarithm of the values follows a normal distribution.
+ It is often used to model variables that are positively skewed on the original scale, such as income or stock prices.
+
+Poisson Distribution: The Poisson distribution is used to model the number of events that occur within a fixed interval of time or space. 
+It is characterized by discrete values and is often used to model rare events, such as the number of phone calls received at a call center within a specific time frame.
+
+These are just a few examples of data distributions commonly encountered in statistics. There are many other distributions, each with its own characteristics and applications.
+
+Regarding density functions, a density function (also called a probability density function or PDF) describes the probability distribution of a continuous random variable. 
+Here are a few types of density functions:
+
+Gaussian (Normal) Density Function: The Gaussian density function is associated with the normal distribution and is characterized by the bell-shaped curve.
+
+Uniform Density Function: The uniform density function has a constant value within a specific interval and is used to represent a uniform distribution.
+
+Exponential Density Function: The exponential density function describes the exponential distribution and is characterized by a decreasing exponential shape.
+
+-Beta Density Function: The beta density function is commonly used to model probabilities or proportions and is characterized by its shape, which can be symmetric or skewed.
+
+-Gamma Density Function: The gamma density function is used to model continuous positive variables and is often used in areas such as queuing theory or reliability analysis.
+
+These are just a few examples of density functions. There are many other types of density functions, 
+each associated with specific probability distributions and used in various fields of study.
