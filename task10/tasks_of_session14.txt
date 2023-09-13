@@ -1,0 +1,55 @@
+
+Q1:Types of statistical tests and when to use each type with examples
+
+
+
+Statistical tests are used to analyze data and make inferences about populations based on sample observations. There are various types of statistical tests, each designed for specific scenarios and types of data. Here are some common types of statistical tests and their appropriate usage:
+
+1. t-test:
+   - Used to compare means between two groups.
+   - Example: Comparing the average test scores of students who received a particular teaching intervention versus those who did not.
+
+2. Chi-square test:
+   - Used to analyze categorical data and determine if there is a significant association between two categorical variables.
+   - Example: Investigating whether there is a relationship between smoking habits (smoker or non-smoker) and the occurrence of a specific respiratory disease (yes or no).
+
+3. Analysis of Variance (ANOVA):
+   - Used to compare means between multiple groups (more than two).
+   - Example: Evaluating whether there are significant differences in the average sales revenue across three different regions.
+
+4. Mann-Whitney U test:
+   - Used to compare the distribution of a continuous variable between two independent groups when the assumptions for a t-test are violated.
+   - Example: Assessing if there is a difference in the median income between two different occupations.
+
+5. Wilcoxon signed-rank test:
+   - Used to compare the distribution of a continuous variable between two related (paired) groups when the assumptions for a paired t-test are violated.
+   - Example: Investigating whether there is a significant difference in the blood pressure of individuals before and after a specific treatment.
+
+6. Pearson correlation:
+   - Used to measure the strength and direction of the linear relationship between two continuous variables.
+   - Example: Examining the relationship between the number of hours studied and the exam scores of students.
+
+7. Regression analysis:
+   - Used to model and analyze the relationship between a dependent variable and one or more independent variables.
+   - Example: Predicting a house's sale price based on its size, number of bedrooms, and location.
+
+8. Survival analysis:
+   - Used to analyze time-to-event data, such as the time it takes for an event (e.g., death, failure) to occur.
+   - Example: Assessing the survival rates of patients diagnosed with a particular disease over a given time period.
+
+These are just a few examples of statistical tests, and there are many more available depending on the specific research question and type of data. It's important to choose the appropriate test based on the research objective and the characteristics of the data being analyzed.
+##############################################################################################################################
+
+
+Q2:What is P-value?
+The p-value is a statistical measure used in hypothesis testing to help determine the strength of evidence against a null hypothesis. It quantifies the probability of obtaining a test statistic as extreme as, or more extreme than, the observed data, assuming that the null hypothesis is true.
+
+Here's how the p-value is typically interpreted:
+
+1. If the p-value is small (usually less than a predetermined significance level, such as 0.05), it suggests strong evidence against the null hypothesis. In other words, it indicates that the observed data is unlikely to occur if the null hypothesis is true. This often leads to rejecting the null hypothesis in favor of an alternative hypothesis.
+
+2. If the p-value is large (greater than the significance level), it suggests weak evidence against the null hypothesis. In this case, it indicates that the observed data is reasonably likely to occur even if the null hypothesis is true. Consequently, the null hypothesis is not rejected.
+
+It's important to note that the p-value does not provide information about the size or practical significance of the observed effect. It only indicates the strength of evidence against the null hypothesis. Additionally, the p-value does not measure the probability of the null hypothesis being true or false.
+
+It's also worth mentioning that the interpretation of p-values should be done in conjunction with other factors like effect size, study design, context, and prior knowledge. The p-value should not be seen as the sole determinant for drawing conclusions in statistical analysis.
